@@ -8,4 +8,3 @@ while count > 0 do
     puts "Happy New Year!"
   end
 end
-puts "Happy New Year!"
